@@ -1,0 +1,7 @@
+C:\Users\annin\Downloads\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\annin\Downloads\Pedido\bin\Debug\Pedido.exe
+C:\Users\annin\Downloads\Pedido\bin\Debug\Pedido.pdb
+C:\Users\annin\Downloads\Pedido\obj\Debug\Pedido.csproj.AssemblyReference.cache
+C:\Users\annin\Downloads\Pedido\obj\Debug\Pedido.csproj.CoreCompileInputs.cache
+C:\Users\annin\Downloads\Pedido\obj\Debug\Pedido.exe
+C:\Users\annin\Downloads\Pedido\obj\Debug\Pedido.pdb
